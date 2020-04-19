@@ -1,5 +1,5 @@
 ---
-title: "Guest Instructor"
+title: "MIT Global Teaching Labs Guest High School Instructor"
 collection: teaching
 type: "High School"
 permalink: /teaching/2017-jan-gtl-4

@@ -16,7 +16,8 @@ the data-poor context of India.  I am set to graduate this June, and am ecstatic
 to be joining X (formerly Google X) on a sustainable agriculture project as a 
 machine learning infrastructure engineer. 
 
-My research interests span distributed systems, machine learning, and optimization.
+My research interests span distributed systems, machine learning, optimization, 
+and the intersection of technology with driving sustainable decision making.
 
 Previously, I have worked at Lyft, [Station A](https://stationa.com/), [Enernet 
 Global](http://www.enernetglobal.com/), and 

@@ -1,5 +1,5 @@
 ---
-title: "Guest Instructor"
+title: "MIT Global Teaching Labs Guest Instructor"
 collection: teaching
 type: "Grade School Enrichment Offerings"
 permalink: /teaching/2016-jan-gtl-3

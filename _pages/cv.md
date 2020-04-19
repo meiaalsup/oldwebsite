@@ -58,7 +58,7 @@ Work experience
 * Summer 2016: Software Engineering Intern 
   * Clean Power Research in Seattle, WA
   * Powerclerk Team
-  * Built a new viewer for pdf attachments and revamped the front page design
+  * Built a new viewer for pdf attachments and revamped the front page design.
   * Full Stack Engineering using C#, MySQL, Javascript, HTML, CSS
   
 Skills
