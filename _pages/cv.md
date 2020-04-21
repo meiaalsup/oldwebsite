@@ -90,7 +90,7 @@ Teaching
   {% endfor %}</ul>
 
   
-Service and leadership
+Service and Leadership
 ======
 * ClimateVoice Ambassador
 * Jan 2019: WWOOFed on Robina's Organics, a small family farm in Salinas, CA
